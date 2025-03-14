@@ -1,4 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
 document.addEventListener("DOMContentLoaded", function () {
     if (typeof gsap === "undefined") return;
 
